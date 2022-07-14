@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = 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
+	fetch = +refs/heads/*:refs/remotes/origin/*
